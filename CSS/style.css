@@ -6,7 +6,7 @@ body{
     margin: 0;
 }
 .main-header{
-    border: 1px solid gray;
+    border-bottom: 1px solid gray;
     background-color: snow;
     box-sizing: border-box;
     width: 99%;

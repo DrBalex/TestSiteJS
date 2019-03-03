@@ -1,3 +1,8 @@
+(function () {
+    console.log('Page Loaded');
+    alert('Page Loaded');
+})()
+
 function changeBackground(x){
     var bodyChanges = document.getElementById('body');
     var headingChanges = document.getElementById('heading');
